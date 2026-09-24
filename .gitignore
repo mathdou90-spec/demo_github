@@ -1,0 +1,19 @@
+# C/C++ 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+a.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
